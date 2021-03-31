@@ -7,6 +7,7 @@ Data set created and used for the project on [https://github.com/fenilgmehta/Che
 - The PGN file have been taken from the following websites:
 	* [https://www.kingbase-chess.net/](https://www.kingbase-chess.net/)
 	* [http://utzingerk.com/test_kaufman](http://utzingerk.com/test_kaufman)
+    * Kaufman's 25 boards postions: [https://www.chessprogramming.org/Kaufman_Test](https://www.chessprogramming.org/Kaufman_Test)
 - One may either download files from `03_csv_score_data` or `03_csv_score_data_compressed`. The only difference is that `03_csv_score_data` contains raw CSV files, whereas `03_csv_score_data_compressed` contain the same files in compressed ZIP format.
 - | File/Folder                    | Size    |
   | ------------------------------ | ------- |
